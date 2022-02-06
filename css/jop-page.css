@@ -1,0 +1,23 @@
+.container .jobs .job-contet{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+
+.fil h2, label, select {
+    margin-bottom: 40px;
+}
+
+.jobs .hed{
+    background-color: wheat;
+}
+.container .row .fil input[type="text"]{
+    margin-bottom: 40px;
+}
+
+
+
+ .container  .job-contet  .image p{
+    font-size: 30px;
+   }

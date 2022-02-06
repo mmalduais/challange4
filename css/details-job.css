@@ -1,0 +1,10 @@
+.details .job-contet{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #eee;
+}
+
+.details .job-contet .text{
+    flex: 1;
+}
